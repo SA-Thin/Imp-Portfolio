@@ -1,0 +1,44 @@
+{
+	"origin": ["#dirstrat# \\#college \\#advice", "#invstrat# \\#college \\#advice", "#people# \\#college \\#advice", "#test# \\#college \\#advice", "#honor# \\#college \\#advice", "#ec# \\#college \\#advice", "#finaid# \\#college \\#advice"],
+
+	"dirstrat": ["Remember to #pro#", "Always #pro#", "Keep in mind, #pro#", "Remember, #pro#", "The best path to success is to #pro#", "To be a successful student, you must #pro#", "Tip for success: #pro#", "Your classmates will love it when you #pro#", "Gamechanger: #pro#", "Professors love it when you #pro#"],
+
+	"invstrat" : ["Keep in mind, never #con#", "Remember to never #con#", "To succeed, never #con#"],
+
+	"pro" : ["throw #obj# to get the professor's attention.", "drop-kick the classmates you don't like.", "make #food# during a #academic#.", "be fashionably absent instead of fashionably late.", "speak only in #lang#.", "break other people's pencils if they're distracting you.", "write your name on other people's homework.", "start a Marxist revolution if you feel the professor plays favorites."],
+	"food" : ["hotdogs", "hamburgers", "a steak", "fried rice", "lamb chops"],
+	"academic" : ["test", "mid-term", "presentation", "final exam", "high-stakes interview"],
+	"lang" : ["Russian", "Vietnamese", "Swahili", "Belarusian"],
+	"country" : ["Nigerian", "Sudanese", "Moroccan", "Kenyan"],
+	"obj" : ["chairs", "other students", "tables", "yourself to the ground", "your backpack", "your friend's laptop"],
+
+	"con" : ["go to class.", "make eye contact.", "break eye contact.", "walk, only sprint.", "do homework.", "speak."],
+
+	"people" : ["The best way to make new friends is to #social#", "If you're an awkward person and you find yourself in a group, #social#", "If you're in the dining hall and have nobody to sit with, #cafeteria#", "If you're alone in the library, #cafeteria#",  "At a social event? You should #social#"],
+	"social" : ["approach in your underwear.", "walk like a silverback gorilla to establish dominance.", "introduce yourself as a member of the #lang# mafia.", "scream that you're on to them.", "introduce yourself as #country# royalty and that you need their help to get revenge."],
+	"cafeteria" : ["throw food at people.", "scream at the top of your lungs.", "jump on someone's table and do a #acro#.", "crawl on the ground and say you're a #animal#."],
+	"acro" : ["backflip", "summersault", "handstand", "dive"],
+	"animal" : ["cockroach", "cat", "donkey", "fish", "turtle"],
+
+	"test" : ["If you're struggling with a difficult, upcoming test, #strat#", "If you're nervous for a big presentation, #strat#", "If you're getting hardcore butterflies for a date, #strat#"],
+	"strat" : ["drop out of school and #options#.", "skip it, change your identity, and start a new life in #travel# as a #job#. "],
+	"options" : ["apply to a different university", "live under a rock", "swear vengeance on the person that did this to you", "become a samurai"],
+	"travel" : ["Ireland", "Japan", "Brazil", "Canada", "South Korea", "South Africa", "Poland", "Australia"],
+	"job" : ["chef", "personal trainer", "dentist", "drug dealer", "ninja"],
+
+	"honor" : ["If you catch someone cheating on #work#, #solution#.", "Worried about people cheating off you? #proof#." ],
+	"work" : ["their homework", "a test", "an exam", "a mid-term", "a project"],
+	"solution" : ["tackle them with all of your strength", "challenge them to one-on-one combat for ownership", "scream at them in #lang# until they stop", "swear vengeance on them", "throw a desk at them", "throw another student at them"],
+	"proof" : ["Hire #guard# and have them intimidate your classmates", "Answer all the questions in #lang#", "Book a flight to #travel# and do the assignment there"],
+	"guard" : ["a bodyguard", "a member of the Yakuza", "a Republican Congressional intern",  "Dave Bautista"],
+
+	"ec" : ["A fun thing to do on the weekends is #hob#", "If you have down time between classes, try #hob#", "Stressed? Try #hob#"],
+	"hob" : ["dressing up as batman and sitting on rooftops.", "challenging #class# to sword-fights.", "performing a Mayan rain dance."],
+	"class" : ["freshmen", "upperclassmen", "faculty", "professors", "dining hall staff"],
+
+	"finaid" : ["If #stuff# are too expensive, #action# to make money.", "If you're feeling poor, remember that at least you're #poor#."],
+	"stuff" : ["textbooks", "school supplies", "university-branded clothes", "restaurants", "friends"],
+	"action" : ["exploit the inflation rate against #travel#'s currency", "start a cult in #travel# worshipping a #country# god and ask for donations"],
+	"poor" : ["not an English major", "not a social justice major", "not a philosophy major", "not a theatre arts major"]
+	
+}
